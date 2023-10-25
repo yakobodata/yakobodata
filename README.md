@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wamani Jacob
-- 👀 I’m interested in Data Engineering , Analytics , Science
+- 👀 I’m interested in Data to deliver insights , Artificial Intelligence
 - 🌱 I’m currently networking , with people in the industry
-- 💞️ I’m looking to collaborate on Data projects
+- 💞️ I’m looking to collaborate on Data and AI projects
 - 📫 How to reach me email:jacobwamanidata@gmail.com
 
 <!---
